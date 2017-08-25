@@ -1,0 +1,11 @@
+# UMLS Semantic Network as UML Metamodel
+
+#### Abstract
+*In the domain of biomedical and healthcare informatics, Unified Medical Language System (UMLS) is a standard medical vocabulary developed by aggregating multiple medical terminological standards and sources from diverse healthcare domains, which encapsulates a broad spectrum of medical knowledge ranging from symptoms to medications to genes. The two primary modules of the UMLS are Semantic Network (UMLS-SN) – formed by associating well-defined semantic types with semantic relationships and, Metathesaurus (UMLS-META) – the heart of the UMLS system that comprises of millions of aggregated medical concepts. However, in healthcare application development, the fundamentals of software modeling, object-oriented principles and languages are very successful and dominant in achieving application design and implementation. In the present state, the impact of the knowledge captured by UMLS-SN in healthcare application research and development is minimal, as UMLS environment confines the UMLS-SN knowledge and it has no impact on healthcare application development dominated by object-oriented languages. However, the UMLS-SN knowledge can be translated into an object-oriented modeling framework for designing and developing healthcare application based proven software engineering principles and methodologies. To achieve this goal, we developed a metamodeling framework for UMLS-SN based on the UML metamodel (using UML Profile) that will result in a customized domain specific metamodel. This specialized metamodel allows developers to design healthcare applications that are coherent with object-oriented modeling and software engineering approaches.*
+
+##### Cite
+Saripalle, R. (2015). UMLS Semantic Network as a UML Metamodel for Improving Biomedical Ontology and Application Modeling. International Journal of Healthcare Information Systems and Informatics. [doi:10.4018/IJHISI.2015040103](http://dx.doi.org/10.4018/IJHISI.2015040103)
+
+	
+#### Project
+This proect is developed using Papyrus Oxygen, UML 2.5, Object Constraint Language and UMLS 2017 AA. To apply the profile, import the UMLSSN profile into the UML modeling enviornment and apply the respective stereotypes to the modeling classes and associations. 
